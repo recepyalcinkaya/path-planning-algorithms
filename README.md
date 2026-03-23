@@ -13,3 +13,9 @@ RRT (Rapidly Exploring Random Tree)
 RRT*
 
 ## Project Structure
+
+algorithms/ -> Path planning algorithms 
+maps/ -> Test environments 
+simulation/ -> Visualization and testing scripts 
+utils/ -> Helper functions 
+results/ -> Example outputs
