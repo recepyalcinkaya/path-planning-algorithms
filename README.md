@@ -25,3 +25,7 @@ utils/ -> Helper functions
 results/ -> Example outputs
 
 ## Technologies
+
+### Python
+### NumPy
+### Matplotlib
