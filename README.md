@@ -29,3 +29,7 @@ results/ -> Example outputs
 ### Python
 ### NumPy
 ### Matplotlib
+
+## Example
+
+The algorithms generate a collision-free path between start and goal positions on a grid map.
