@@ -33,3 +33,13 @@ results/ -> Example outputs
 ## Example
 
 The algorithms generate a collision-free path between start and goal positions on a grid map.
+
+## Future Work
+
+Hybrid A*
+
+Dubins path
+
+Frenet optimal trajectory
+
+Real vehicle integration
